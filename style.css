@@ -1,7 +1,8 @@
 body{
     background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTibS5-Cc6Im2QjDjleLq5qj7IjuLVuGJFBEzFBkGxHRQ&s=10');
+    background-attachment: fixed;
+    background-repeat: no-repeat;
     background-size: cover;
-
 }
 #container{
     text-align: center;
