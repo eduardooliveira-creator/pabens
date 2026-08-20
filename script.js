@@ -1,5 +1,5 @@
 document.getElementById('myButton1').addEventListener('click', function() {
-            document.getElementById('buttons').innerText = 'pabéns';
+            document.getElementById('buttons').innerText = 'Otario KKKKK';
         });
 
         document.getElementById('myButton2').addEventListener('mouseover', function() {
